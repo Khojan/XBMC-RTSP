@@ -1,0 +1,3 @@
+This is an addon that can be used to manually start RTSP stream in event service stops working. Basically a shortcut...
+
+If stream is running already, dialog will pop up letting you know and request is ignored. 
