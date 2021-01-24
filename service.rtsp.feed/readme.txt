@@ -1,0 +1,1 @@
+This is a service that will check every 10 seconds if video is playing. If no video is playing, service attempts to restart strm file. 
